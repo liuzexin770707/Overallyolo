@@ -1,0 +1,2 @@
+问问AI怎么用本文件夹中的yolo_env.yml,nncase_env.yml文件
+关键词：Windows,Conda,YOLO,nncase,kmodel,K230

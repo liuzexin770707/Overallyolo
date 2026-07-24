@@ -1,0 +1,6 @@
+OBlud
+ORed
+OYellow
+OGreen
+OWathet
+Ring
